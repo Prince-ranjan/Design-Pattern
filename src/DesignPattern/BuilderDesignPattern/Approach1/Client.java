@@ -19,7 +19,7 @@ public class Client {
 /*
 
 Builder DP:-
-lot of parameter,
+lot of parame
 validation on parameters,
 immutable object
 
